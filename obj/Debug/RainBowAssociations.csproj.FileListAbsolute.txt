@@ -1,0 +1,8 @@
+E:\C#\projects\RainBowAssociations\RainBowAssociations\bin\Debug\RainBowAssociations.exe.config
+E:\C#\projects\RainBowAssociations\RainBowAssociations\bin\Debug\RainBowAssociations.exe
+E:\C#\projects\RainBowAssociations\RainBowAssociations\bin\Debug\RainBowAssociations.pdb
+E:\C#\projects\RainBowAssociations\RainBowAssociations\obj\Debug\RainBowAssociations.csproj.AssemblyReference.cache
+E:\C#\projects\RainBowAssociations\RainBowAssociations\obj\Debug\RainBowAssociations.csproj.SuggestedBindingRedirects.cache
+E:\C#\projects\RainBowAssociations\RainBowAssociations\obj\Debug\RainBowAssociations.csproj.CoreCompileInputs.cache
+E:\C#\projects\RainBowAssociations\RainBowAssociations\obj\Debug\RainBowAssociations.exe
+E:\C#\projects\RainBowAssociations\RainBowAssociations\obj\Debug\RainBowAssociations.pdb

@@ -1,0 +1,17 @@
+Student Details:-
+==================
+Name		rollnumber		Branch 		Address		  Mobile_Number		Fee	Status(fail/pass)
+=========================================================================================================================
+Smith             16243                  IT           1-161,vijjeswaram  9873477889           $10000/-     F
+
+Ward              16244                  CSE          2-33,nidadavole    8798987789           $4890/-      P
+
+Miller            16245                  EEE          2-85,Tpg           7899819900           $4500/-      p
+
+David	          16246                  ECE          3-33,Narshipatnam  9989100989           $4670/-      F
+
+Kohili            16256                  petrolium    4-44/56,Patna      6783909280           $6700/-      p
+
+Gawaskar          16266                  Civil        1-132/2,Chennai    8999000290           $890/-       p
+
+Rohit Sharma      16254                  EEE           7-89,Guntur       7890004538           $4567/-      F
